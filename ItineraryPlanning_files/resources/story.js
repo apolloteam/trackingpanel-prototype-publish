@@ -2,7 +2,7 @@ var story = {
  "title": "ItineraryPlanning",
  "pages": [{
   "title": "ItineraryPlanning",
-  "height": 1908,
+  "height": 1979,
   "width": 1405,
   "image": "ItineraryPlanning.png",
   "links": [],
